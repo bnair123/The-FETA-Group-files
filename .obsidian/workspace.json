@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "444aa745dcd3c198",
+    "type": "split",
+    "children": [
+      {
+        "id": "64f095455a66e0e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f030f36d60be935",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bebd9367d8afcfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Free Exchange Trade Agreement (FETA) Codified Laws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7db12a76205646b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cohesive Monetary Union.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "316e487df8c0c092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FETA Next Gen Act.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f6a670fc0118571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FETA Next Gen Act.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e5ee9ff202a2473",
+    "type": "split",
+    "children": [
+      {
+        "id": "37abdb0eee689c00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c053e9d2634ad032",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce88faa093c3c557",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e301fb39ddd2ebc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bba73759b6957227",
+    "type": "split",
+    "children": [
+      {
+        "id": "89b48da308708f9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fd94b5adb99de1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FETA Next Gen Act.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94731fc08cea69b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FETA Next Gen Act.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18977d0c4f4453c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff6fb3f512dc0daf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FETA Next Gen Act.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f6a670fc0118571",
+  "lastOpenFiles": [
+    "FNG Act 1.md",
+    "The Free Exchange Trade Agreement (FETA) Codified Laws.md",
+    "FETA Next Gen Act.md",
+    "Untitled",
+    "Cohesive Monetary Union.md"
+  ]
+}
